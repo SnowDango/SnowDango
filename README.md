@@ -61,12 +61,14 @@ I learn Android Native Application.
 </p>
 
 ### SummayCard
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDango&theme=radical&layout=compact&hide=c%23,asp&card_width=400&langs_count=10" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowDango&show_icons=true&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDango&theme=radical&layout=compact&hide=c%23,asp&card_width=400&langs_count=10" />
+   </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowDango&show_icons=true&theme=radical" />
+  </a>
+</p>
 
 [![](https://raw.githubusercontent.com/SnowDango/SnowDango/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SnowDango/SnowDango/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
