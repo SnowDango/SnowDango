@@ -18,7 +18,7 @@ I learn Android Native Application.
   <a href="http://qiita.com/SnowDango">
     <img height="20" src="https://qiita-badge.apiapi.app/s/SnowDango/posts.svg" />
   </a>
-  <a href="qiita.com/SnowDango">
+  <a href="https://qiita.com/SnowDango">
     <img height="20" src="https://qiita-badge.apiapi.app/s/SnowDango/contributions.svg" />
   </a>
 </p>
