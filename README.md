@@ -23,9 +23,13 @@ I learn Android Native Application.
   <a href="qiita.com/SnowDango">
     <img height="20" src="https://qiita-badge.apiapi.app/s/SnowDango/contributions.svg" />
   </a>
+</p>
+
+
+<p align="left">
   <a href="https://developer.android.com/studio?">
     <img src="https://img.shields.io/badge/AndroidStudio-lastest-3DDC84.svg?logo=Android%20Studio&style=popout">
-  </a
+  </a>
 </p>
 
 ### SummayCard
