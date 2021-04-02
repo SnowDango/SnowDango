@@ -8,8 +8,6 @@ I am Student at third yaer in univercity in Japan.
 
 I learn Android Native Application.
 
-
-### Badge
 <p align="left"> 
   <a href="https://github.com/SnowDango/SnowDango/">
     <img src="https://komarev.com/ghpvc/?username=SnowDango" alt="SnowDango" />
@@ -60,14 +58,9 @@ I learn Android Native Application.
   </a>
 </p>
 
-### SummayCard
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDango&theme=radical&layout=compact&hide=c%23,asp&card_width=400&langs_count=10" />
-   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowDango&show_icons=true&theme=radical" />
-  </a>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDango&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SnowDango&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 [![](https://raw.githubusercontent.com/SnowDango/SnowDango/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
