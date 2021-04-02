@@ -30,6 +30,19 @@ I learn Android Native Application.
   <a href="https://developer.android.com/studio?">
     <img src="https://img.shields.io/badge/AndroidStudio-lastest-3DDC84.svg?logo=Android%20Studio&style=popout">
   </a>
+  <a href="https://kotlinlang.org">
+    <img src="https://img.shields.io/badge/Kotlin-lastest-0095D5.svg?logo=kotlin&style=popout">
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://music.apple.com/profile/rikarikafc">
+    <img src="https://img.shields.io/badge/AppleMusic-000000.svg?logo=apple-music&style=popout">
+  </a>
+  <a href="https://open.spotify.com/user/xsa1cc9k9ym6b7f623hzwof0l">
+    <img src="https://img.shields.io/badge/Spotify-1ED760.svg?logo=spotify&style=popout">
+  </a>
 </p>
 
 ### SummayCard
