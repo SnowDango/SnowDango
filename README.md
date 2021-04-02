@@ -27,11 +27,23 @@ I learn Android Native Application.
 
 
 <p align="left">
-  <a href="https://developer.android.com/studio?">
-    <img src="https://img.shields.io/badge/AndroidStudio-lastest-3DDC84.svg?logo=Android%20Studio&style=popout">
-  </a>
   <a href="https://kotlinlang.org">
-    <img src="https://img.shields.io/badge/Kotlin-lastest-0095D5.svg?logo=kotlin&style=popout">
+    <img src="https://img.shields.io/badge/Kotlin-414141.svg?logo=kotlin&style=popout">
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/-Node.js-414141.svg?logo=node.js&style=popout">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/-Typescript-414141.svg?logo=typescript&style=popout">
+  </a>
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/-Java-414141.svg?logo=java&style=popout">
+  </a>
+  <a href="https://developer.android.com/studio?">
+    <img src="https://img.shields.io/badge/-AndroidStudio-414141.svg?logo=android%20studio&style=popout">
+  </a>
+  <a href="https://www.electronjs.org/">
+    <img src="https://img.shields.io/badge/-Electron-414141.svg?logo=electron&style=popout">
   </a>
 </p>
 
