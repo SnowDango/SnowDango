@@ -24,3 +24,10 @@ I am Student at third yaer in univercity in Japan.
 I learn Android Native Application.
 
 
+### SummayCard
+
+[![](https://raw.githubusercontent.com/SnowDango/SnowDango/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/SnowDango/SnowDango/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/SnowDango/SnowDango/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
