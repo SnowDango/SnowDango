@@ -45,6 +45,9 @@ I learn Android Native Application.
   <a href="https://www.electronjs.org/">
     <img src="https://img.shields.io/badge/-Electron-414141.svg?logo=electron&style=popout">
   </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/-C%20Sharp-414141.svg?logo=C%20Sharp&style=popout">
+  </a>
 </p>
 
 
