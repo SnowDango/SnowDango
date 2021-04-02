@@ -1,0 +1,33 @@
+# This is a basic workflow to help you get started with Actions
+
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # execute every 24 hours
+    - cron: '* */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SummaryCardToken }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
