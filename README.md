@@ -1,20 +1,5 @@
 ### Hello
 
-<!--
-**SnowDango/SnowDango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Thank you for looking at my profile. 
 
 ### Who am I?
@@ -23,6 +8,22 @@ I am Student at third yaer in univercity in Japan.
 
 I learn Android Native Application.
 
+
+### Badge
+<p align="left"> 
+  <a href="https://github.com/SnowDango/SnowDango/">
+    <img src="https://komarev.com/ghpvc/?username=SnowDango" alt="SnowDango" />
+  </a>
+  <a href="https://github.com/SnowDango">
+    <img height="20" src="https://img.shields.io/github/followers/SnowDango?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/SnowDango">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SnowDango/posts.svg" />
+  </a>
+  <a href="qiita.com/SnowDango">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SnowDango/contributions.svg" />
+  </a>
+</p>
 
 ### SummayCard
 
