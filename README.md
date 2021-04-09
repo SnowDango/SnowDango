@@ -4,7 +4,7 @@ Thank you for looking at my profile.
 
 ### Who am I?
 
-I am Student at third yaer in univercity in Japan. 
+I am Student at 4th yaer in univercity in Japan. 
 
 I learn Android Native Application.
 
