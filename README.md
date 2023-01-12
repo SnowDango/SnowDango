@@ -58,10 +58,12 @@ I learn Android Native Application.
   </a>
 </p>
 
+<!--
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDango&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide=c%23,asp&langs_count=8" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SnowDango&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SnowDango&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
